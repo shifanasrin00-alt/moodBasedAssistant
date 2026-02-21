@@ -35,12 +35,6 @@ motivations
 - Libraries used: vanilla,emojis
 - Tools used: VS code,UTF18
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
 
 ## Features
 
@@ -51,44 +45,23 @@ List the key features of your project:
 
 ---
 
-## Implementation
 
-### For Software:
-
-#### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
-
-#### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
-
-### For Hardware:
-
-#### Components Required
-[List all components needed with specifications]
-
-#### Circuit Setup
-[Explain how to set up the circuit]
-
----
-
-## Project Documentation
 
 ### For Software:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53f35c86-65f0-43c2-b509-4e13d7845df5" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Main interface*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ce89f32-1da1-4914-9c4d-ef502ecea95c" />
+
+*Result after choosing happy mode*
+
+![Screenshot3]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e04adc-de04-47b0-8bf8-e75042772920" />
+
+*Result after choosing confused mode*
 
 #### Diagrams
 
