@@ -2,11 +2,11 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# study mood assistant 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: shifasiya
 
 ### Team Members
 - Member 1: Ayishath shamsiya - college of engineering munnar]
