@@ -9,20 +9,20 @@
 ### Team Name: [Name]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Ayishath shamsiya - college of engineering munnar]
+- Member 2: shifa nasrin - college of engineering munnar
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://shifanasrin00-alt.github.io/moodBasedAssistant/
 
 ### Project Description
-[2-3 lines about what your project does]
+[a mood enhancer to overcome distraction while studying]
 
 ### The Problem statement
-[What problem are you solving?]
+silly distraction while studying
 
 ### The Solution
-[How are you solving it?]
+motivations
 
 ---
 
@@ -31,10 +31,9 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used:  JavaScript,css,HTML
+- Libraries used: vanilla,emojis
+- Tools used: VS code,UTF18
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +45,9 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [emoji input]
+- Feature 2: [study presriptions]
+- Feature 3: [progress and mood analytics]
 
 ---
 
